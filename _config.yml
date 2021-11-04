@@ -1,3 +1,5 @@
+
+theme: jekyll-theme-architect
 ---
 layout: post
 title: This is set as the document title.
@@ -5,7 +7,6 @@ title: This is set as the document title.
 
 This is visible body content, which may use Markdown, HTML, and Liquid templating.
 
-theme: jekyll-theme-architect
 
 <ul>
   {% for post in site.posts %}
